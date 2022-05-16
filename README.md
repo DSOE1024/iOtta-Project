@@ -1,2 +1,2 @@
-# iOtta-Project
-一个多平台,7k玩法的美观音游
+# iOtta-AmazoraGams
+一个以“七边形”为判定的移动端创新音游！
